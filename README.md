@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula&column=7&no-frame=true" />
 </p>
 
 <br>
