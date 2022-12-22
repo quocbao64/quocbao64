@@ -1,6 +1,4 @@
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=quocbao64&theme=dracula)
-</p>
+<center>![](https://komarev.com/ghpvc/?username=quocbao64&theme=dracula)</center>
 
 <p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
