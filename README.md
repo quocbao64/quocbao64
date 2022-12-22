@@ -1,21 +1,23 @@
 <a href="https://komarev.com/ghpvc/?username=quocbao64&theme=dracula">
   <img align="center" src="https://komarev.com/ghpvc/?username=quocbao64&theme=dracula" />
 </a>
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=quocbao64&theme=dracula)](https://git.io/streak-stats)
-</p>
+<a href="https://komarev.com/ghpvc/?username=quocbao64&theme=dracula">
+  <img align="center" src="https://komarev.com/ghpvc/?username=quocbao64&theme=dracula" />
+</a>
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula)
-</p>
+<a href="https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula" />
+</a>
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao64&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://streak-stats.demolab.com/?user=quocbao64&theme=dracula">
+  <img align="center" src="https://streak-stats.demolab.com/?user=quocbao64&theme=dracula" />
+</a>
 
+<a href="https://github-readme-stats.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula" />
+</a>
 
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao64&layout=compact&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao64&layout=compact&theme=dracula" />
+</a>
