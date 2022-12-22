@@ -1,5 +1,7 @@
-![](https://komarev.com/ghpvc/?username=quocbao64&theme=dracular)
+![](https://komarev.com/ghpvc/?username=quocbao64&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracular)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=quocbao64&theme=dracular)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quocbao64&theme=dracula)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula)
