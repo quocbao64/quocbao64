@@ -1,5 +1,3 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=quocbao64&theme=dracula" /><br>
-
 <h1 align="center">Hi 👋, I'm Huỳnh Quốc Bảo</h1>
 
 
