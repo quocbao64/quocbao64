@@ -3,11 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning **System design concepts**
-- 👯 I’m looking for a job **Backend Java Developer**
-- 💬 Ask me about **Java**
-- 📫 How to reach me: quocbao642002@gmail.com
+- :dollar: I’m currently working on **Java**
+- :pencil2: I’m currently learning **Amazon Web Service**
+- :telescope: I’m looking for a job **Backend Java Developer**
+- :speech_balloon: Ask me about **Java**
+- :e-mail: How to reach me: quocbao642002@gmail.com
+- :page_facing_up: My CV: https://github.com/quocbao64/Curriculum-Vitae/blob/main/HuynhQuocBao-BackEndDeveloper.pdf
 
 
 <br>
