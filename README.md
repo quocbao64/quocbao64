@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - :telescope: I’m looking for a job **Back End Java Developer**
 - :speech_balloon: Ask me about **Java**
 - :e-mail: How to reach me: quocbao642002@gmail.com
-- :page_facing_up: My CV: https://github.com/quocbao64/Curriculum-Vitae/blob/main/HuynhQuocBao-BackEndDeveloper.pdf
+- :page_facing_up: My CV: [HuynhQuocBao-BackEndDeveloper.pdf](https://github.com/quocbao64/Curriculum-Vitae/blob/main/HuynhQuocBao-BackEndDeveloper.pdf)
 
 
 <br>
