@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - :pencil2: I’m currently learning **Amazon Web Service**
 - :telescope: I’m looking for a job **Back End Java Developer**
 - :speech_balloon: Ask me about **Java**
-- :e-mail: How to reach me: quocbao642002@gmail.com
+- :e-mail: How to reach me:
+  - Gmail: quocbao642002@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/quocbao64/
 - :page_facing_up: My CV: [HuynhQuocBao - BackEndDeveloper.pdf](https://github.com/quocbao64/quocbao64/files/12336492/HuynhQuocBao.-.BackEndDeveloper.pdf)
 
 
