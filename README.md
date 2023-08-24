@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 
 
 <br>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=quocbao64&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula" />
+</p>
+
+<br>
+
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=quocbao64&theme=dracula&column=7&no-frame=true" />
 </p>
@@ -21,17 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=quocbao64&theme=dracula" />
-</p>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quocbao64&show_icons=true&theme=dracula" />
-</p>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quocbao64&layout=compact&theme=dracula" />
+  <a href="https://roadmap.sh">
+    <img src="https://api.roadmap.sh/v1-badge/wide/646d09a5cb6301e67f89be43?variant=dark" alt="roadmap.sh"/>
+  </a>
 </p>
