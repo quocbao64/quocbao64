@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :e-mail: How to reach me:
   - Gmail: quocbao64.dev@gmail.com
   - LinkedIn: https://www.linkedin.com/in/quocbao64/
-- :page_facing_up: My CV: [HuynhQuocBao - BackEndDeveloper.pdf](https://github.com/quocbao64/quocbao64/files/12336492/HuynhQuocBao.-.BackEndDeveloper.pdf)
+- :page_facing_up: My CV: [HuynhQuocBao - BackendDeveloper.pdf](https://github.com/quocbao64/Curriculum-Vitae/blob/main/HuynhQuocBao-BackendDeveloper.pdf)
 
 
 <br>
