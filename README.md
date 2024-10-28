@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- :dollar: I’m currently working on **Java**
+- :dollar: I’m currently working on **Golang**
 - :pencil2: I’m currently learning **Amazon Web Service**
-- :telescope: I’m looking for a job **Back End Java Developer**
-- :speech_balloon: Ask me about **Java**
+- :telescope: I’m looking for a job **Back End Developer**
+- :speech_balloon: Ask me about **Java, Golang**
 - :e-mail: How to reach me:
   - Gmail: quocbao64.dev@gmail.com
   - LinkedIn: https://www.linkedin.com/in/quocbao64/
